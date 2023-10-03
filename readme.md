@@ -12,3 +12,4 @@ Individual Project Videos - Work in Progress
 ## Test Instruction
 
 1. npm run test or npx playwright test
+2. Run the webserver "npm run start" will run "node index.js" 
