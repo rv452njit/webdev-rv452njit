@@ -10,6 +10,13 @@ Individual Project Videos - Work in Progress
 2.  run: npm install after you clone
 
 ## Test Instruction
+This project uses Playwright for automated testing and you can find more info about playwright [here](https://playwright.dev/docs/intro).
 
-1. npm run test or npx playwright test
-2. Run the webserver "npm run start" will run "node index.js" 
+* npm run test or npx playwright test
+
+## Managing the Local Development Server
+You will need to start the local development server with the following command:
+
+* Run the webserver "npm run start" will run "node index.js" 
+
+Once the server starts then open your web browser to localhost:3000 to view the web page.
