@@ -10,6 +10,7 @@ Individual Project Videos - Work in Progress
 2.  run: npm install after you clone
 
 ## Test Instruction
+This project uses Playwright for automated testing and you can find more info about playwright [here](https://playwright.dev/docs/intro).
 
 * npm run test or npx playwright test
 
