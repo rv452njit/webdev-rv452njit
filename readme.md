@@ -3,6 +3,7 @@
 Individual Project Videos - Work in Progress
 
 1. [Part 1 - NPM Setup, Playwright Setup, and Project Management with GitHub Issues.](https://youtu.be/Lkc1B5KZZfM)
+2. [Part 2 - Playwright Tests, Git Stash, and Playwright Video](https://youtu.be/V-Cf-lwtZ58)
 
 ## Install Instructions
 
