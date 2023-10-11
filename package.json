@@ -9,7 +9,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaw393939/webdev1project.git"
+    "url": "git+https://github.com/NJIT-WIS/webdev1-rv452njit.git"
+    // "url": "git+https://github.com/kaw393939/webdev1project.git"
   },
   "keywords": [
     "example",
